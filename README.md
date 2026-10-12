@@ -1,3 +1,6 @@
+[![Ecosystem](https://img.shields.io/badge/Portfolio%20Ecosystem-341%20Studios-6366f1.svg)](https://pradeeptalari.me/projects/)
+[![Architecture DAG](https://img.shields.io/badge/Architecture-DAG%20%26%20Course-10b981.svg)](https://pradeeptalari.me/tools/repo-learning/)
+
 # HashiCorp Boundary Zero-Trust Access Studio
 
 [![CI Validation](https://github.com/Pradeeptalari14/tp-boundary-zerotrust/actions/workflows/ci.yml/badge.svg)](https://github.com/Pradeeptalari14/tp-boundary-zerotrust/actions)
@@ -122,3 +125,6 @@ spec:
 ## 7. License
 
 Licensed under the [MIT License](LICENSE). Copyright (c) 2026 Talari Pradeep.
+
+---
+*Synchronized with [HashiCorp Boundary Zero-Trust Access Studio Studio](https://pradeeptalari.me/tools/hashicorp-boundary-zerotrust/) & [Repository Learning DAG](https://pradeeptalari.me/tools/repo-learning/) — [Talari Pradeep Portfolio](https://pradeeptalari.me)*
